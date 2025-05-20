@@ -1,2 +1,0 @@
-# samson
-learning
